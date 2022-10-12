@@ -7,4 +7,6 @@ Hello Everyone!
 
 <img src="https://komarev.com/ghpvc/?username=zToastWTF&style=flat-square&color=blue" alt="My Profile Views"/>
 
+- :telescope: I'm a Hobby Programmer <3.
+
 </div>
