@@ -6,7 +6,6 @@ Hello Everyone!
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=zToastWTF&style=flat-square&color=blue" alt="My Profile Views"/>
-
-- :telescope: I'm a Hobby Programmer <3.
+<a href="https://discord.gg/v7kVHEjgvS"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Only%20German&color=7289DA" alt="Join Community Badge"/></a>
 
 </div>
