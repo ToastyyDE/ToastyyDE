@@ -6,6 +6,5 @@ Hello Everyone!
 </h1>
 
 <img src="https://komarev.com/ghpvc/?username=zToastWTF&style=flat-square&color=blue" alt="My Profile Views"/>
-<a href="https://discord.gg/v7kVHEjgvS"><img src="https://img.shields.io/discord/972512211371171871.svg?style=flat&label=Only%20German&color=7289DA" alt="Join Community Badge"/></a>
 
 </div>
