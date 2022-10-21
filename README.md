@@ -21,6 +21,6 @@ Guten Tag!
   
 </div>
 
-  
+[![Discord Presence](https://lanyard.cnrad.dev/api/913123263360667689)](https://discord.com/users/913123263360667689)
   
 </div>
