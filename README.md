@@ -2,9 +2,7 @@
   <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47oid7dkca4902i2zat8toklw74dkwp8wkhujvtxqp&rid=giphy.gif&ct=g" width="450"/>
 
 <h1 align="center">Hi 👋, I'm Toasty :3</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=einfachtoastyy" alt="einfachtoastyy" /></a> </p>
+<h3 align="center">A Noob Developer from Germany</h3>
 
 <p align="left"> <a href="https://twitter.com/einfachtoastyy" target="blank"><img src="https://img.shields.io/twitter/follow/einfachtoastyy?logo=twitter&style=for-the-badge" alt="einfachtoastyy" /></a> </p>
 
