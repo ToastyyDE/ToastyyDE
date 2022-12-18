@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/einfachtoastyy" target="blank"><img src="https://img.shields.io/twitter/follow/einfachtoastyy?logo=twitter&style=for-the-badge" alt="einfachtoastyy" /></a> </p>
 
-- 🔭 I’m currently working on a [Minecraft Server (German Only)](https://www.minecraft.net/)
-
 - 🌱 I’m currently learning **Python and a lil bit of php**
 
 <h3 align="left">Connect with me:</h3>
