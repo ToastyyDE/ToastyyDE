@@ -1,9 +1,7 @@
 <h1 align="center">Yo i'm, ToastyyDE</h1>
 <h3 align="center">Some random dude from Germany</h3>
 
-<p align="left"> <a href="https://twitter.com/toastyyde" target="blank"><img src="https://img.shields.io/twitter/follow/toastyyde?logo=twitter&style=for-the-badge" alt="toastyyde" /></a> </p>
-
-- I’m currently learning **Pyhton**
+- I’m currently learning **Python**
 
 - I'm in a German Minecraft Server Team called [BuildDream](https://builddream.de/discord)
 
@@ -22,5 +20,3 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/913123263360667689)](https://discord.com/users/913123263360667689)
-  
-</div>
