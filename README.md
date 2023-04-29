@@ -1,13 +1,13 @@
 <h1 align="center">Yo i'm, ToastyyDE</h1>
 <h3 align="center">Some random dude from Germany</h3>
 
-- I’m currently learning **Python**
+- I’m currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 - I'm in a German Minecraft Server Team called [BuildDream](https://builddream.de/discord)
 
-- I want to learn **PHP**
+- And I want to learn <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
-- You can contact me at **Kontakt@Toastyy.de**
+- You can contact me at <a href="mailto:Kontakt@Toastyy.de" target="_blank">Kontakt@Toastyy.de</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
