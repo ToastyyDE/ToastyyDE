@@ -3,8 +3,6 @@
 
 - I’m currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 
-- I'm in a German Minecraft Server Team called [BuildDream](https://builddream.de/discord)
-
 - And I want to learn <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a>
 
 - You can contact me at <a href="mailto:Kontakt@Toastyy.de" target="_blank">Kontakt@Toastyy.de</a>
