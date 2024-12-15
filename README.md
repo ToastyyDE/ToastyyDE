@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ToastyyDE
 =================================================================================================================================
 
-17y/o - New Developer
+17y/o - Artist - Programming Beginner
 ---------------------
 
-I started programming because I saw my brother do it and found it extremely interesting and then started programming with Python! In the future I planned to learn Typescript because it also looked very interesting But for now i stick to python a bit :)
+sometimes i'm programming some basic easy shi but atleast im proud of myself :)
+
 
 * 🌍  I'm based in Germany
 * 🖥️  See my website at [toastyy.de](http://toastyy.de)
