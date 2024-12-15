@@ -7,10 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I started programming because I saw my brother do it and found it extremely interesting and then started programming with Python! In the future I planned to learn Typescript because it also looked very interesting But for now i stick to python a bit :)
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [toastyy.de](http://toastyy.de)
+* 🖥️  See my website at [toastyy.de](http://toastyy.de)
 * ✉️  You can contact me at [kontakt@toastyy.de](mailto:kontakt@toastyy.de)
-* 🧠  I'm learning Python (Beginner)
-* 🤝  I'm open to collaborating on anything :) Just contact me (most of the time I only work with people who speak german because my english isn't the best)
+* 🤝  I'm a music artist and beat producer working with [Fl Studio](https://www.image-line.com/)
 
 ### Skills
 
