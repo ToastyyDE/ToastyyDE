@@ -7,10 +7,9 @@
 
 - 👨‍💻 All of my projects are available at (soon...) [https://toastyy.de/projects](https://toastyy.de/projects)
 
-- 📫 How to reach me **kontakt@toastyy.de**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  kontakt@toastyy.de
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
