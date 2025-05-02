@@ -19,7 +19,7 @@
 Alle meine Repositories findest du auf [GitHub](https://github.com/ToastyyDE).  
 Hier ein paar Highlights:
 
-| Projekt          | Beschreibung                           | Sprache/Tech       |
+| Projekt          | Beschreibung                           | Tech               |
 | ---------------- | -------------------------------------- | ------------------ |
 | `discord-bot`    | Moderations- & Utility-Bot für Discord | Python, SQLite     |
 | `portfolio-site` | Meine Portfolio Seite                  | HTML, CSS, JS      |
