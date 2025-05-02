@@ -37,7 +37,7 @@ Ich streame hin und wieder live auf Twitch unter:
 ## 📫 Kontakt
 Wenn dir noch Informationen fehlen oder du Feedback hast, schreib mir einfach! 👇
 - **E-Mail:** [kontakt@toastyy.de](mailto:kontakt@toastyy.de)  
-- **Discord:** `@ToastyyDE`  
+- **Discord:** `@toastyyde`  
 
 ---
 
