@@ -1,6 +1,4 @@
 # 👋 Hey, ich bin ToastyyDE
-
-![Profilbild](https://avatars.githubusercontent.com/u/95420955)  
 *“Learning never exhausts the mind.”* – Leonardo da Vinci
 
 ---
