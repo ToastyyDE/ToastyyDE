@@ -10,8 +10,8 @@
 - **Hosting & Infrastruktur:**
   - **Websites:** Vercel  
   - **Domain & DNS:** verwaltet mit Cloudflare  
-  - **Self-Hosting:** Raspberry Pi für Bots und weiteren shit idk haha 
-  - **Datenbank:** meist SQLite (wurd schon oft angemeckert bitti lasst mich :3) 
+  - **Self-Hosting:** Raspberry Pi für Bots und weiteren shit idk haha & ein altes handy lol
+  - **Datenbank:** meist SQLite
 
 ---
 
