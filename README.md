@@ -23,7 +23,6 @@ Hier ein paar Highlights:
 | ---------------- | -------------------------------------- | ------------------ |
 | `discord-bot`    | Moderations- & Utility-Bot für Discord | Python, SQLite     |
 | `portfolio-site` | Meine Portfolio Seite                  | HTML, CSS, JS      |
-| `raspberry shit` | alles mögliche...                      | Flask, SQLite      |
 | `X`              | In Zukunft ist was geplant!            |                    |
 
 ---
