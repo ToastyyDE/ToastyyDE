@@ -20,7 +20,7 @@ Hier ein paar Highlights:
 | Projekt          | Beschreibung                             | Tech               |
 | ---------------- | ---------------------------------------- | ------------------ |
 | `discord-bot`    | Moderations- & Utility-Bot für Discord   | Python, SQLite     |
-| `portfolio-site` | Meine Portfolio Seite                    | HTML, CSS, JS      |
+| `portfolio-site` | Meine Portfolio Seite [toastyy.de](https://toastyy.de)         | HTML, CSS, JS      |
 | `???`            | Ich und mein Freund bauen aktuell was :3 | PHP, CSS, MariaDB  |
 
 ---
