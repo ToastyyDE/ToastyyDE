@@ -6,10 +6,10 @@
 ## 🚀 My Tech lol
 - **Sprachen & Technologien:** Python, Javascript, HTML, CSS und idk lol
 - **Hosting & Infrastruktur:**
-  - **Websites:** Vercel
-  - **Domain & DNS:** verwaltet mit Cloudflare
-  - **Self-Hosting:** Raspberry Pi für Bots und weiteren shit idk haha & ein altes handy lol
-  - **Datenbank:** SQLite aber auch oft MariaDB
+  - **Websites:** Vercel und seit neustem Netlify!! Viel besser als Vercel find ich!
+  - **Domain & DNS:** verwaltet mit Cloudflare & MC-Host24
+  - **Self-Hosting:** Meist eigener PC Zuhause
+  - **Datenbank:** SQLite & MariaDB
 
 ---
 
@@ -17,11 +17,11 @@
 Alle meine Repositories findest du auf [GitHub](https://github.com/ToastyyDE).  
 Hier ein paar Highlights:
 
-| Projekt          | Beschreibung                             | Tech               |
-| ---------------- | ---------------------------------------- | ------------------ |
-| `discord-bot`    | Moderations- & Utility-Bot für Discord   | Python, SQLite     |
-| `portfolio-site` | Meine Portfolio Seite [toastyy.de](https://toastyy.de)         | HTML, CSS, JS      |
-| `???`            | Ich und mein Freund bauen aktuell was :3 | PHP, CSS, MariaDB  |
+| Projekt           | Beschreibung                             | Tech               |
+| ----------------- | ---------------------------------------- | ------------------ |
+| `discord-bot`     | Moderations- & Utility-Bot für Discord   | Python, SQLite     |
+| `portfolio-site`  | Meine Portfolio Seite [toastyy.de](https://toastyy.de)        | HTML, CSS, JS, Vercel      |
+| `dodgeball event` | Ein Dodgeball Event Leaderboard in Hamburg | HTML, CSS, JS, Netlify  |
 
 ---
 
