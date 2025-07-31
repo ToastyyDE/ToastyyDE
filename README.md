@@ -6,7 +6,7 @@
 ## 🚀 My Tech lol
 - **Sprachen & Technologien:** Python, Javascript, HTML, CSS und idk lol
 - **Hosting & Infrastruktur:**
-  - **Websites:** Vercel und seit neustem Netlify!! Viel besser als Vercel find ich!
+  - **Websites:** Vercel und seit neustem netlify, mehr möglichenkeiten lol
   - **Domain & DNS:** verwaltet mit Cloudflare & MC-Host24
   - **Self-Hosting:** Meist eigener PC Zuhause
   - **Datenbank:** SQLite & MariaDB
