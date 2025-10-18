@@ -4,12 +4,11 @@
 ---
 
 ## 🚀 Meine Sachen
-- **Sprachen & Technologien:** Python, Javascript, HTML, CSS und idk lol
-- **Hosting & Infrastruktur:**
-  - **Websites:** Vercel und seit neustem netlify, mehr möglichenkeiten lol
+- **Sprachen & Technologien:** Python, Javascript, HTML, CSS...
+- **So zeug halt:**
+  - **Website Hosting:** Vercel und Netlify
   - **Domain & DNS:** verwaltet mit Cloudflare & MC-Host24
-  - **Self-Hosting:** Meist eigener PC Zuhause
-  - **Datenbank:** SQLite & MariaDB
+  - **Self-Hosting:** Meistens mein eigener PC
 
 ---
 
@@ -32,4 +31,4 @@ Wenn dir noch Informationen fehlen oder du Feedback hast, schreib mir einfach! �
 
 ---
 
-*bye bye :3* 🚀
+*bye bye* 🚀
