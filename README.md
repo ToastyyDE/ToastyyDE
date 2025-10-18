@@ -1,9 +1,9 @@
 # 👋 Hey, ich bin ToastyyDE
-*“Ich kann nicht programmieren.”* – ToastyyDE
+*“Ich bin der beste.”* – ToastyyDE
 
 ---
 
-## 🚀 My Tech lol
+## 🚀 My Tech
 - **Sprachen & Technologien:** Python, Javascript, HTML, CSS und idk lol
 - **Hosting & Infrastruktur:**
   - **Websites:** Vercel und seit neustem netlify, mehr möglichenkeiten lol
