@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 My Tech
+## 🚀 Meine Sachen
 - **Sprachen & Technologien:** Python, Javascript, HTML, CSS und idk lol
 - **Hosting & Infrastruktur:**
   - **Websites:** Vercel und seit neustem netlify, mehr möglichenkeiten lol
@@ -17,11 +17,11 @@
 Alle meine Repositories findest du auf [GitHub](https://github.com/ToastyyDE).  
 Hier ein paar Highlights:
 
-| Projekt           | Beschreibung                             | Tech               |
-| ----------------- | ---------------------------------------- | ------------------ |
-| `discord-bot`     | Moderations- & Utility-Bot für Discord   | Python, SQLite     |
-| `portfolio-site`  | Meine Portfolio Seite [toastyy.de](https://toastyy.de)        | HTML, CSS, JS, Vercel      |
-| `dodgeball event` | Ein Dodgeball Event Leaderboard in Hamburg | HTML, CSS, JS, Netlify  |
+| Projekt                             | Beschreibung                                   | Tech                    | Vorschau                     |
+| ----------------------------------  | ---------------------------------------------- | ----------------------- | ---------------------------- |
+| `discord-bot (NOT OPEN SOURCE)`     | Moderationsbot für Discord                     | Python, SQLite          | VORSCHAU NICHT VERFÜGBAR     |
+| `portfolio-site (OPEN SOURCE)`      | Meine Portfolio Seite                          | HTML, CSS, JS, Vercel   | https://toastyy.de           |
+| `dodgeball-event (NOT OPEN SOURCE)` | Ein Dodgeball Event LIVE Leaderboard / Hamburg | HTML, CSS, JS, Netlify  | https://dodgeball.toastyy.de |
 
 ---
 
