@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Meine Sachen
-- **Sprachen & Technologien:** Python, Javascript, HTML, CSS...
+- **Sprachen & Technologien:** Python, HTML, CSS... versuche javascript zu verstehen...
 - **So zeug halt:**
   - **Website Hosting:** Vercel und Netlify
   - **Domain & DNS:** verwaltet mit Cloudflare & MC-Host24
