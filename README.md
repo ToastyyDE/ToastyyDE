@@ -16,11 +16,11 @@
 Alle meine Repositories findest du auf [GitHub](https://github.com/ToastyyDE).  
 Hier ein paar Highlights:
 
-| Projekt                             | Beschreibung                                   | Tech                    | Vorschau                     |
-| ----------------------------------  | ---------------------------------------------- | ----------------------- | ---------------------------- |
-| `discord-bot (NOT OPEN SOURCE)`     | Moderationsbot für Discord                     | Python, SQLite          | VORSCHAU NICHT VERFÜGBAR     |
-| `portfolio-site (OPEN SOURCE)`      | Meine Portfolio Seite                          | HTML, CSS, JS, Vercel   | https://toastyy.de           |
-| `dodgeball-event (NOT OPEN SOURCE)` | Ein Dodgeball Event LIVE Leaderboard / Hamburg | HTML, CSS, JS, Netlify  | https://dodgeball.toastyy.de |
+| Projekt                                       | Beschreibung                                   | Tech                    | Vorschau                     |
+| --------------------------------------------- | ---------------------------------------------- | ----------------------- | ---------------------------- |
+| `ToastyyDE/discord-bot (NOT OPEN SOURCE)`     | Moderationsbot für Discord                     | Python, SQLite          | VORSCHAU NICHT VERFÜGBAR     |
+| `ToastyyDE/toastyy.de (OPEN SOURCE)`          | Meine Portfolio Seite                          | HTML, CSS, JS, Vercel   | https://toastyy.de           |
+| `ToastyyDE/dodgeball-site (NOT OPEN SOURCE)`  | Ein Dodgeball Event LIVE Leaderboard / Hamburg | HTML, CSS, JS, Netlify  | https://dodgeball.toastyy.de |
 
 ---
 
